@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelevating_from_the_git_go=self.webpackChunkelevating_from_the_git_go||[]).push([[121],{88070:e=>{e.exports=JSON.parse('[{"label":"retail","permalink":"/elevating-from-the-git-go/docs/tags/retail","count":1}]')}}]);
