@@ -1,0 +1,8 @@
+{
+  "label": "Retail",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Cloud native retail patterns"
+  }
+}

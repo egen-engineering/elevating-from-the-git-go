@@ -1,0 +1,103 @@
+---
+sidebar_position: 1
+---
+
+# Wireframes
+
+## Admin login
+
+![admin login](./order-fulfilment-wireframes/login.png)
+
+## Select a store
+
+After logging in, the admin can choose from the stores that they have access to.
+
+![Select a store](./order-fulfilment-wireframes/select-a-store.png)
+
+## Dashboard
+
+The dashboard UI presents a snapshot view of the store’s performance and other relevant metrics.
+
+### Informational constituents
+
+Below is a very low fidelity “informational wireframe” showing the different kinds of data that can be presented in this screen.
+
+![dashboard](./order-fulfilment-wireframes/dashboard.png)
+
+### Visual components
+
+A slightly higher fidelity wireframe showing how the above information can be rendered / visualized in the actual UI.
+
+![dashboard](./order-fulfilment-wireframes/dashboard_ui-components.png)
+
+## Orders
+
+### View list of orders
+
+The orders page shows the list of orders in a table. Table elements can be sorted, filtered or searched using a search box.
+
+![orders list page](./order-fulfilment-wireframes/orders.png)
+
+### View a single order
+
+Clicking on a single row in the previous screen will allow you to view more details of that order.
+
+![single order](./order-fulfilment-wireframes/orders_single.png)
+
+## Pick review
+
+In this screen, the admin can review the *picks* done by a store shopper for each item in an order.
+
+![pick reviews](./order-fulfilment-wireframes/picks.png)
+
+## Batches
+
+Product picks are organized in the form of batches by a backend algorithm. In this screen, the admin can review individual batches and their statuses.
+
+![batches](./order-fulfilment-wireframes/batches.png)
+
+## Products
+
+### View list of Products
+
+Search and filter products sold in your store by various attributes, and view most relevant info such as the product’s category / department and stock availability.
+
+![products list](./order-fulfilment-wireframes/products.png)
+
+### View / manage / edit a single product
+
+#### Informational constituents
+
+![single product](./order-fulfilment-wireframes/products_single.png)
+
+#### Visual components
+
+A slightly higher fidelity wireframe showing how the above information can be rendered / visualized in the actual UI.
+
+![single product](./order-fulfilment-wireframes/products_single_ui-components.png)
+
+## Customers
+
+### View all Customers
+
+![customers list](./order-fulfilment-wireframes/customers.png)
+
+### View and manage a single customer info
+
+![single customer](./order-fulfilment-wireframes/customers_single.png)
+
+## Employees
+
+### View all employees
+
+The employees screen shows all employees under the admin's purview
+
+![employees list](./order-fulfilment-wireframes/employees.png)
+
+### View and manage a single employee info
+
+![single employee](./order-fulfilment-wireframes/employees_single.png)
+
+## Settings
+
+![settings](./order-fulfilment-wireframes/settings.png)
