@@ -9,7 +9,7 @@ const config = {
   title: 'Elevating from the git-go',
   tagline: 'Our playbook of engineering principles and patterns',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/elevating-from-the-git-go/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/egen-engineering/elevating-from-the-git-go',
+            'https://github.com/egen-engineering/elevating-from-the-git-go/edit/main',
           remarkPlugins: [require('mdx-mermaid')],
         },
         theme: {
@@ -70,6 +70,12 @@ const config = {
           //   position: 'right',
           // },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
       footer: {
         style: 'dark',

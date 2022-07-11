@@ -1,7 +1,3 @@
----
-draft: true
----
-
 # A culture of learning
 
 Finding great developers is just one part of the equation.

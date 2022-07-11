@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+
 ---
 
 # Introduction
@@ -17,7 +18,7 @@ The diagram provides a high level view of what constitutes in a retail experienc
 1. A retail customer places an order to purchase products from a retail store. For this, the *interface* or the medium of interaction can be an e-commerce / online storefront app, or by physically visiting a store, or often even both (buy online, pickup in store).
 2. The store employee preps the order, usually with a handheld interface of their own. Depending on the scale of operations of the store, it might be a simple barcode scanner, or a device running software with several sophisticated features to optimize the prep process.
 3. Between the customer and employee lies a customer-support / ticket-resolution interface to streamline and resolve customer issues.
-4. An admin portal portal integrates the data from the above 3 flows and lays out their operations for an admin / facilitator.
+4. An admin portal integrates the data from the above 3 flows and lays out their operations for an admin / facilitator.
 
 
 For a large scale retail, the above components can be quite sophisticated, with each of the above interfaces having their own set of flows. How does that look like?
