@@ -20,6 +20,8 @@
   --ifm-hero-background-color: white;
   --ifm-font-color-base-inverse: #003847;
   --ifm-footer-background-color: #003847;
+  --ifm-footer-link-hover-color: white;
+  --ifm-h1-font-size: 2.5rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -42,4 +44,14 @@
 
 .footer--dark {
   --ifm-footer-background-color: #003847;  
+}
+
+@media screen and (min-width: 997px) {
+  :root {
+    --ifm-font-size-base: 1.25em;
+  }
+
+  h1 {
+    font-size: 2.5rem !important;
+  }
 }
