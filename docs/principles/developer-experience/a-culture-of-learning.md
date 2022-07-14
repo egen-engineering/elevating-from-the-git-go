@@ -12,6 +12,6 @@ As our early client discussions reach their high points, our engineers are alrea
 
 ## Achieving excellence
 
-n the ever-changing landscape of tech, any developer who cares about building great products is eventually going to brood over the affair of staying up-to-date.
+In the ever-changing landscape of tech, any developer who cares about building great products is eventually going to brood over the affair of staying up-to-date.
 
 From time-to-time, we also guide our engineers through technical certification preparations for some of the most sought-after technologies on the market.
