@@ -7,7 +7,7 @@ sidebar_position: 1
 
 How do we best re-use information and ideas gained from experience?
 
-A tempting technique for sharing and adopting knowledge across multiple projects is by relying on *plug-and-play* solutions. With this, each new project is merely an *instance* of this template, and would come packed with important, must-to-have features that the project needs. *Easy-peasy*.
+A tempting technique for sharing and adopting knowledge across multiple projects is by relying on *plug-and-play* solutions 🧩. With this, each new project is merely an *instance* of this template, and would come packed with important, must-to-have features that the project needs. *Easy-peasy*.
 
 **Or is it?** 🤔
 

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Introduction
 
-What's common between a person making a sandwich at home versus a gourmet chef preparing Thai curry? They both need fire, salt and a kitchen to cook!
+What's common between a person making a sandwich at home versus a gourmet chef preparing Thai curry? They both need fire, salt and a kitchen to cook! 🫕
 
 When working with retail clients, we find that though they all have a distinctive set of experiences that they wish to manifest in the market, there are some ingredients that almost all of them require.
 
